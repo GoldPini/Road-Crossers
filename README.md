@@ -10,6 +10,7 @@ Welcome to Road-Crossers, my prototype game! In this simple but challenging litt
 - Multiple difficulty levels: each level increases the number and speed of vehicles, with new challenges in later stages
 - Dynamic sound system: responsive vehicle, player, and ambient sound effects
 - Procedurally generated levels: roads are Precederally generated with configurable length and difficulty
+- Custom made UI
 
  Feedback will be highly appreciated:)
 
